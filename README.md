@@ -1,1 +1,1 @@
-# Spark_exercises
+Resolução de problemas usando Pyspark
